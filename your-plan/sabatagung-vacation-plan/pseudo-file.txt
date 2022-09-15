@@ -1,0 +1,11 @@
+create variable destination
+first day 
+second day
+third day 
+ect
+
+create date schedule 
+create travel schedule
+
+create variable timeline planning 
+create total budget
