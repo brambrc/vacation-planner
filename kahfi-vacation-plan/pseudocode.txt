@@ -1,6 +1,0 @@
-Kahfi Vacation Plan
-READ & WRITE "booking" with STRING
-STORE "booking" WITH "rencana perjalanan 3 hari"
-STORE "day1" with "berangkat dari bandara Soekarno-Hatta menuju bandara Haneda Tokyo dan sesudah sampai di tokyo saya mengunjungi Tokyo Skytree"
-STORE "day2" with "hari kedua saya mengunjungi akihabara untuk melihat-lihat beberapa toko yang menjual merchandise anime"
-STORE "day3" with "pada hari terakhir saya mengunjungi beberapa kuil di Tokyo karena penasaran dan pada sore hari saya menuju bandara untuk pulang"
