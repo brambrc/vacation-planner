@@ -1,0 +1,9 @@
+Dewana_Vacation_Plan
+
+READ AND WRITE "plan" with array
+
+STORE "Beli nasi goreng" with plan
+
+STORE "Login game online" with plan
+
+END
