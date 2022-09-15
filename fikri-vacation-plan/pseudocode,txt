@@ -1,0 +1,16 @@
+PROGRAM vacation_plan
+
+start with select travel agent
+read and write "travel" with string
+
+STORE "method" with travel
+
+if by plane then
+    select schedule 
+    go vacation
+
+if by ship then
+    select schedule
+    go vacation
+
+END
