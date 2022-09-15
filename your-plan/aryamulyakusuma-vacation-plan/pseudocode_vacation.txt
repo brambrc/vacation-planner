@@ -1,0 +1,20 @@
+PROGRAM VacationPlanning
+
+DECIDE Destinasi Liburan
+PREPARE Barang Barang yang dibawa
+CHOOSE Transportasi
+
+IF Transportasi == Pesawat
+  PREPARE Kartu Vaksin
+ELSE
+  Continue
+
+GO Destinasi Liburan
+ARRIVE di Destinasi Liburan
+ENJOY Liburan
+
+IF Duit Abis == NO
+   ENJOY THE LIBURAN
+ELSE
+   PULANG BRO 
+  
