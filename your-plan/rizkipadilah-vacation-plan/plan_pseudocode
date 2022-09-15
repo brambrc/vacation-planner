@@ -1,0 +1,15 @@
+PROGRAM vacation_plan
+
+start with select tempat wisata
+read and write "destinasi" with string
+
+read and write "agen" with string
+
+? if tidak cocok
+read and write "destinasi" with string
+
+? if cocok
+read and write "payment" with integer
+
+
+END
