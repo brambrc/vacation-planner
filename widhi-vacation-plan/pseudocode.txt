@@ -1,0 +1,5 @@
+Widhi_Vacation_Plan
+START & WRITE "naik bus" with string
+STORE "ke pantai"
+STORE "ke toko oleh-oleh"
+END
