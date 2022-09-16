@@ -1,0 +1,12 @@
+Read and write "place" with String
+Read Place selected into "place"
+? if Do u Want to visit the place
+Visiting place
+? If Don'n want visit the place
+Read and write "place" with String
+? if Do u still Want to visit the place
+Read and write "place" with String
+Read Place selected into "place"
+? If Don'n want visit the place
+Back home
+End
