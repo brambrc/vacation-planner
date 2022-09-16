@@ -1,0 +1,18 @@
+sabatagung-vacation-planner
+
+READ and WRITE var destination: string
+READ and WRITE var booking_tiket: int
+READ and WRITE var travelling_schedule: string
+
+INPUT destination
+INPUT booking_tiket
+INPUT travelling_schedule
+
+PRINT check schedule
+IF schedule change THEN back to travelling schedule
+ELSE schedule fix
+
+PRINT happy travelling
+
+
+
