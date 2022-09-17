@@ -1,0 +1,13 @@
+READ AND WRITE “tabungan” with integer
+INPUT “tabunganInput”
+STORE “tabungan” with “tabunganInput”
+
+IF “tabungan” > 2.000.000
+    Diskusi dengan teman
+    IF teman setuju ke bali
+        pergi ke bali
+    ELSE teman setuju ke jakarta
+        pergi ke jakarta
+ELSE
+    Beli game online
+        
