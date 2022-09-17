@@ -1,0 +1,10 @@
+lihat perkiraan cuaca
+if cerah
+	then hiking
+	else staycation
+lihat budget 
+	if budget banyak
+	then hiking gunung luar jawa barat
+	else
+	gunung terdekat
+end
