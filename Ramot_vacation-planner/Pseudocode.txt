@@ -1,0 +1,10 @@
+WRITE "Making Vacations Plans" 
+WRITE "MChoose Vacations Destinations" 
+
+IF "Weather" sunny
+    PRINT "Bali"
+    PRINT "Lombok"
+    PRINT "Pulau Seribu"
+ELSE
+    PRINT "Not Going"
+END
