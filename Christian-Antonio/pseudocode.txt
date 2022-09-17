@@ -1,0 +1,14 @@
+Start
+Read and write "buka aplikasi pemesanan tiket"
+if (apabila musim liburan) then
+	back to "pergi ke luar negeri"
+	read and write "memilih negara dan kota"
+	read and write "mengurus visa dan passport"
+else 
+	read and write "pergi ke luar kota"
+	read and write "memilih kota"
+
+read and write "memilih akomodasi"
+read and write "membeli tiket"
+read and write "keberangkatan"
+end
